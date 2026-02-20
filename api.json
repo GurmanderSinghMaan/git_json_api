@@ -19,7 +19,7 @@
     {"id": "prod-c180445d-013", "name": "Standard Item 13", "category": "clothing", "price": 129.48, "stock": 4, "rating": 2.3},
     {"id": "prod-c180445d-014", "name": "Pro Item 14", "category": "clothing", "price": 105.58, "stock": 146, "rating": 2.4},
     {"id": "prod-c180445d-015", "name": "Premium Item 15", "category": "books", "price": 385.73, "stock": 192, "rating": 3},
-    {"id": "prod-c180445d-016", "name": "Basic Item 16", "category": "books", "price": 17.61, "stock": 25, "rating": 3.9},
+    {"id": "prod-c180445d-016", "name": "Basic Item 16", "category": "books", "price": 17.61, "stock": 25, "rating": 3.9}
     ],
     "aggregations": {
     "clothing": {
