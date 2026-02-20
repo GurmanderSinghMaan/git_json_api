@@ -20,11 +20,28 @@
     {"id": "prod-c180445d-014", "name": "Pro Item 14", "category": "clothing", "price": 105.58, "stock": 146, "rating": 2.4},
     {"id": "prod-c180445d-015", "name": "Premium Item 15", "category": "books", "price": 385.73, "stock": 192, "rating": 3},
     {"id": "prod-c180445d-016", "name": "Basic Item 16", "category": "books", "price": 17.61, "stock": 25, "rating": 3.9}
-  ],
   "aggregations": {
-    "books": {
-      "count": 4,
-      "inventoryValue": 92291.12
-    }
+  "clothing": {
+    "count": 6,
+    "inventoryValue": 121551.58
+  },
+  "home": {
+    "count": 4,
+    "inventoryValue": 86721.74
+  },
+  "sports": {
+    "count": 1,
+    "inventoryValue": 24196.74
+  },
+  "books": {
+    "count": 4,
+    "inventoryValue": 92291.12
+  },
+  "electronics": {
+    "count": 1,
+    "inventoryValue": 5122.56
   }
+}
+],
+  
 }
